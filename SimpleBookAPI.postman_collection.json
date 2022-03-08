@@ -91,7 +91,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n   \"clientName\": \"Musaaaa\",\n   \"clientEmail\": \"Musa@example165112.com\"\n}",
+					"raw": "{\n   \"clientName\": \"Musaaaa\",\n   \"clientEmail\": \"Musa@example1gg65112.com\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -343,7 +343,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "b5f345b32f19c8d9daa9f1479a630d56c75aada908128116e252b4b21c2865ad",
+							"value": "779ea3e911c6a260eed1144b75fde4c480413f07f3299fbaa559ffe0b061efcc",
 							"type": "string"
 						}
 					]
@@ -411,7 +411,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "b5f345b32f19c8d9daa9f1479a630d56c75aada908128116e252b4b21c2865ad",
+							"value": "779ea3e911c6a260eed1144b75fde4c480413f07f3299fbaa559ffe0b061efcc",
 							"type": "string"
 						}
 					]
@@ -465,7 +465,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "b5f345b32f19c8d9daa9f1479a630d56c75aada908128116e252b4b21c2865ad",
+							"value": "779ea3e911c6a260eed1144b75fde4c480413f07f3299fbaa559ffe0b061efcc",
 							"type": "string"
 						}
 					]
@@ -528,7 +528,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "b5f345b32f19c8d9daa9f1479a630d56c75aada908128116e252b4b21c2865ad",
+							"value": "779ea3e911c6a260eed1144b75fde4c480413f07f3299fbaa559ffe0b061efcc",
 							"type": "string"
 						}
 					]
@@ -584,7 +584,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "b5f345b32f19c8d9daa9f1479a630d56c75aada908128116e252b4b21c2865ad",
+							"value": "779ea3e911c6a260eed1144b75fde4c480413f07f3299fbaa559ffe0b061efcc",
 							"type": "string"
 						}
 					]
